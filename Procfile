@@ -1,0 +1,1 @@
+server: bundler exec puma
